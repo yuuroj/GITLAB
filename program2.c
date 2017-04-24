@@ -7,7 +7,7 @@ void main()
   timer=time(NULL);
   printf("The current time is %s.\n",asctime(localtime(&timer)));*/
   
-  int hours, minutes; char Name[30], answer;
+  int hours, minutes; char Name[50], answer;
 
   time_t timer; 
   struct tm *time_now;
