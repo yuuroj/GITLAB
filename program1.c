@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("Bye bye everyone\n");
+	double a,b;
+	printf("See you again\n");
 	return 0;
 }
